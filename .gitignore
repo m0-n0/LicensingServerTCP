@@ -137,6 +137,9 @@ DocProject/Help/html
 
 # Click-Once directory
 publish/
+LicensingServerTCP/
+.gitignore
+.gitattributes
 
 # Publish Web Output
 *.[Pp]ublish.xml
